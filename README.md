@@ -1,16 +1,18 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**DerekLeroy/DerekLeroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **DerekLeroy**, a database geek.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐛 Bug hunter by night
+- 🚀 Performance matters
+- 🎯 Goal: ship something useful every week
+- 🌟 Open source enthusiast
+
+## Tech
+
+`gRPC` `Vim` `SQLite`
+
+---
+
+_Currently hacking on cool stuff._
